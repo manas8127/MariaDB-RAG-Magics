@@ -1,10 +1,8 @@
 # 🚀 MariaDB RAG Magic Commands
 
-**🏆 Innovation Track - MariaDB Python Hackathon 2025**
-
 **Multi-Domain Retrieval-Augmented Generation with Local Models and MariaDB Vector**
 
-A hackathon-winning implementation of Jupyter magic commands that demonstrate complete RAG workflows using MariaDB Vector with local models. Features **dual-dataset support** for entertainment and aviation intelligence!
+A implementation of Jupyter magic commands that demonstrate complete RAG workflows using MariaDB Vector with local models. Features **dual-dataset support** for entertainment and aviation intelligence!
 
 ## 🌟 **INNOVATION HIGHLIGHTS**
 
